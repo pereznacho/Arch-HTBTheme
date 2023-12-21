@@ -1,0 +1,17 @@
+[Added Associations]
+text/x-csrc=org.xfce.mousepad.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;
+application/x-trash=org.xfce.mousepad.desktop;
+application/x-executable=org.xfce.mousepad.desktop;
+application/json=org.xfce.mousepad.desktop;
+application/xml=org.xfce.mousepad.desktop;
+application/octet-stream=org.xfce.mousepad.desktop;
+inode/symlink=org.xfce.mousepad.desktop;
+application/java-archive=java-java-openjdk.desktop;
+
+[Default Applications]
+application/x-trash=org.xfce.mousepad.desktop
+application/x-executable=org.xfce.mousepad.desktop
+application/octet-stream=org.xfce.mousepad.desktop
+inode/symlink=org.xfce.mousepad.desktop
+application/x-extension-burp=install4j_wq0wfh-BurpSuiteCommunity.desktop
