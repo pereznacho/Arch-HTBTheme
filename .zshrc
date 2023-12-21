@@ -209,7 +209,7 @@ alias cat='/usr/bin/cat'
 alias catn='/usr/bin/cat'
 alias catl='/usr/bin/bat'
 
-alias rm='trash-put'
+alias rm='/bin/rm'
 alias rm-restore='trash-restore'
 alias rm-list='trash-list'
 
