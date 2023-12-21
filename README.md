@@ -19,4 +19,16 @@ cp -r .config ~/
 
 Thats all!!! meybe you need to logout, reboot or in my case, press CTRL + SHIFT + W
 
+### Clean Desktop
+![Desktop](01.png)
+
+### Kitty Terminal
+![Kitty](02.png)
+
+### Firefox View
+![firefox](03.png)
+
+### HTB VPN info in Waybar
+![VPN](04.png)
+
 This is based on [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots) Dot files.
